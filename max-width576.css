@@ -116,8 +116,9 @@
         position: relative;
 }
 .video  img {
-    height: 228px;
-    width: 100ox;
+        height: 232px;
+        width: 100ox;
+        margin-left: -5px;
 }
 .our-img video{
     height: 250px;
