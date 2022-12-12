@@ -1,0 +1,67 @@
+@media (max-width:320px), (max-width:420px),(max-width:576px) {
+.menu-header .back-img {
+    background-image: url(Images/Img1.jpg);
+    background-size: cover;
+    height: 576px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    background-color: #545050;
+    background-blend-mode: multiply;
+}
+.logo {
+    height: auto;
+    width: auto;
+    margin: 0px;
+    padding: 0px;
+    margin-top: -47px;
+    font-weight: 900;
+}
+.navbar {
+    height: auto;
+    width: 60%;
+    margin: 0;
+    padding: 0;
+    margin-left: 67px;
+    margin-top: 0;
+    font-weight: 900
+}
+.Lselect {
+    height: 35px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.menu-header button {
+    height: 35px;
+    width: 100px;
+    background-color: crimson;
+    transform: 1s all ease;
+}
+.content {
+    position: absolute;
+    top: 186px;
+    color: white;
+    margin-left: 0;
+    font-size: 20px;
+    text-align: center;
+}
+.content input[type=email] {
+    font-size: 17px;
+    width: auto;
+    height: 40px;
+}
+.content span #get {
+    height: 41px;
+    width: auto;
+    background-color: crimson;
+}
+.content span #get:hover {
+    background-color: cadetblue;
+}
+.in {
+    margin-top: 40px;
+
+}
+}
