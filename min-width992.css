@@ -140,11 +140,12 @@ header {
     right: auto;
 }
 .video  img {
-    height: 365px;
+    height: 372px;
     width: auto;
     MARGIN: AUTO;
     overflow: hidden;
-}   
+    margin-left: -5px;
+}    
 .our-img video{
     height: 355px;
     width: 485px;
