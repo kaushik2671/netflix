@@ -344,14 +344,14 @@ header {
 
 .our-story-5 {
     background-color: black;
-    height: 850px;
+    height: auto;
 }
 .our-content-5 {
 background-color: black;
 text-align: center;
 color: white;
 height: 100px;
-width: 100%;
+width: auto;
 }
 
 .our-story-5 .dropdown nav {
